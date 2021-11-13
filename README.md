@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Title: Your UNC Icon
 
 # Description: 
@@ -34,3 +35,6 @@ figured out how to add images to webpages <3
 
 # Future Work:
 changing format of home, quiz, and results pages to make them more interesting and aesthetically please. 
+=======
+# web-dev-tutorial
+>>>>>>> 8b62ac96e5a7a5e7eca9d0ef7d49f3c996474409
